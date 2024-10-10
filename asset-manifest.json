@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-admin-dashboard-/static/css/main.bf5e6715.css",
+    "main.js": "/React-admin-dashboard-/static/js/main.48f1554e.js",
+    "static/js/341.9f682ff4.chunk.js": "/React-admin-dashboard-/static/js/341.9f682ff4.chunk.js",
+    "static/js/122.d425820e.chunk.js": "/React-admin-dashboard-/static/js/122.d425820e.chunk.js",
+    "static/media/womanicon.png": "/React-admin-dashboard-/static/media/womanicon.3f889d0af5f26871fbcc.png",
+    "static/media/IconLogo.png": "/React-admin-dashboard-/static/media/IconLogo.df6fab1314ea40740907.png",
+    "index.html": "/React-admin-dashboard-/index.html",
+    "main.bf5e6715.css.map": "/React-admin-dashboard-/static/css/main.bf5e6715.css.map",
+    "main.48f1554e.js.map": "/React-admin-dashboard-/static/js/main.48f1554e.js.map",
+    "341.9f682ff4.chunk.js.map": "/React-admin-dashboard-/static/js/341.9f682ff4.chunk.js.map",
+    "122.d425820e.chunk.js.map": "/React-admin-dashboard-/static/js/122.d425820e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf5e6715.css",
+    "static/js/main.48f1554e.js"
+  ]
+}
